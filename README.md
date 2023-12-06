@@ -1,6 +1,6 @@
 # Sidebar__JS 
   <a href="aryan-ya.github.io/Sidebar_js/
-     ">LIVE LINK 😍😍</a>
+     ">Live link 😍😍</a>
 
 
 
